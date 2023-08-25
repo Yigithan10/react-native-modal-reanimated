@@ -5,7 +5,7 @@ My build versions:
 ## Installation
 
 ```bash
-  npm install react-native-modal-reanimated
+npm install react-native-modal-reanimated
 ```
 
 ## Doc
