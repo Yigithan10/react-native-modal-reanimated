@@ -1,0 +1,30 @@
+{
+  "name": "react-native-modal-reanimated",
+  "version": "1.1.0",
+  "description": "React Native Modal with Reanimated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yigithan10",
+  "license": "ISC",
+  "repository": "https://github.com/Yigithan10/react-native-modal-reanimated",
+  "dependencies": {
+    "react-native-reanimated": "*"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-reanimated": "*"
+  },
+  "keywords": [
+    "react native",
+    "android",
+    "ios",
+    "react",
+    "native",
+    "modal",
+    "swipe-modal",
+    "reanimated"
+  ]
+}
