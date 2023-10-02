@@ -1,6 +1,6 @@
 This is a custom modal with reanimated.
 My build versions:
-1- react-native-reanimated: 2.14.4
+1- react-native-reanimated: 2.14.4 
 
 ## Installation
 
