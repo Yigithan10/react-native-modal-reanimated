@@ -1,6 +1,6 @@
 {
   "name": "react-native-modal-reanimated",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "React Native Modal with Reanimated",
   "main": "index.js",
   "scripts": {
